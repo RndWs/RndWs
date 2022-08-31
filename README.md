@@ -1,4 +1,4 @@
-- 👋 Hi, I’m R0mano@RndWs.com
+- 👋 Hi, I’m Romano @RndWs.com
 - 👀 I’m interested in MERN development.
 - 🌱 I’m currently learning how to best perform in React
 - 💞️ I’m looking to collaborate on React and MERN web development
